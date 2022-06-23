@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixrowen&label=Profile%20views&color=0e75b6&style=flat" alt="felixrowen" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixrowen" alt="felixrowen" /></a> </p> -->
+### 🏆 GitHub profile trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=felixrowen&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
 - 🔭 I’m currently working  @**FazzFinancial** as Frontend Software Engineer
 
