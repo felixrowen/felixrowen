@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript 3D Animation, UI Design & UX, and some Back-end stuff**
 
-- 👨‍💻 All of my projects are available at [www.felixrowen.com](www.felixrowen.com)
+- 👨‍💻 All of my projects are available at [www.felixrowen.com](https://www.felixrowen.com/)
 
 - 💬 Ask me about **Web Development**
 
