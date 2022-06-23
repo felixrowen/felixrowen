@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently working  @**FazzFinancial** as Frontend Software Engineer
 
+- 🌱 I’m currently learning **JavaScript 3D Animation, UI Design & UX, and some Back-end stuff**
+
+- 👨‍💻 All of my projects are available at [www.felixrowen.com](www.felixrowen.com)
+
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **felixroo98@gmail.com**
