@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixrowen" alt="felixrowen" /></a> </p>
 
-- 💬 Ask me about **Front-end Development**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **felixroo98@gmail.com**
 
