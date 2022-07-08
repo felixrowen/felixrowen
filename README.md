@@ -5,9 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felixrowen" alt="felixrowen" /></a> </p> -->
 
-- 🔭 I’m currently working  @**FazzFinancial** as Frontend Software Engineer
-
-- 🌱 I’m currently learning **JavaScript 3D Animation, UI Design & UX, and some Back-end stuff**
+- 🔭 I’m currently working  @**FazzFinancial** as Software Engineer
 
 - 👨‍💻 All of my projects are available at [www.felixrowen.com](https://www.felixrowen.com/)
 
