@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felixrowen&label=Profile%20views&color=0e75b6&style=flat" alt="felixrowen" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.felixrowen.com](https://www.felixrowen.com/)
+- 👨‍💻 My porfolio [www.felixrowen.com](https://www.felixrowen.com/)
 
 - 📫 Get in touch with me via **[linkedin](https://linkedin.com/in/felixrowen)**
 
