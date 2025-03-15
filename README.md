@@ -20,4 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixrowen&show_icons=true&locale=en&layout=compact" alt="felixrowen" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felixrowen&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felixrowen&hide_border=true)](https://git.io/streak-stats) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=felixrowen&hide_border=true)
