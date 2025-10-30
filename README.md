@@ -5,6 +5,8 @@
 
 - 📫 Get in touch with me via **[linkedin](https://linkedin.com/in/felixrowen)**
 
+<!--![GitHub Streak](https://streak-stats.demolab.com/?user=felixrowen&hide_border=true)-->
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -16,5 +18,3 @@ C++          34 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=felixrowen&hide_border=true)
