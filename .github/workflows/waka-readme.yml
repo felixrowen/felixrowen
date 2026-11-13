@@ -17,4 +17,3 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
